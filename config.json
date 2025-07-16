@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "36459fd0-0c89-4733-b20e-067ffc341bd2",
+            "id": "exhxx",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/TG-@Not_Ragnar"
+          "path": "/exhxx"
         }
       }
     }
