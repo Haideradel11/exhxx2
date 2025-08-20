@@ -2,11 +2,11 @@
   "inbounds": [
     {
       "port": 8080,
-      "protocol": "3329537f-702d-4494-acff-5b3f4022df1c",
+      "protocol": "VLESS",
       "settings": {
         "clients": [
           {
-            "id": "@exhxx",
+            "id": "3329537f-702d-4494-acff-5b3f4022df1c",
             "level": 0
           }
         ],
